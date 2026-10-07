@@ -73,11 +73,13 @@ Me interesa seguir creciendo en **QA Automation**, **Software Testing** y **Back
       <h3><a href="https://github.com/jesveni2212/PWA-MIS-FINANZAS">PWA-MIS-FINANZAS</a></h3>
       <p>PWA para organizar finanzas personales y compartidas, con cuentas, movimientos, grupos, invitaciones y experiencia offline.</p>
       <p><strong>Next.js · React · TypeScript · Supabase · PostgreSQL · Playwright</strong></p>
+      <p>🌐 <a href="https://maf.jesusvenialgo.com">Ver aplicación: maf.jesusvenialgo.com</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jesveni2212/PORTFOLIO.EXE">PORTFOLIO.EXE</a></h3>
       <p>Portafolio interactivo inspirado en una computadora de los años 90, con escritorio, ventanas, terminal y mapa de proyectos.</p>
       <p><strong>HTML · CSS · JavaScript · Responsive Design</strong></p>
+      <p>🌐 <a href="https://portfolio.jesusvenialgo.com">Ver portafolio: portfolio.jesusvenialgo.com</a></p>
     </td>
   </tr>
   <tr>
@@ -88,6 +90,7 @@ Me interesa seguir creciendo en **QA Automation**, **Software Testing** y **Back
     <td width="50%" valign="top">
       <h3>01 INFORMÁTICA</h3>
       <p>Proyecto académico o privado. Se muestra como trabajo destacado, sin exponer un repositorio inaccesible para visitantes.</p>
+      <p>🌐 <a href="https://01-informatica.com">Visitar página: 01-informatica.com</a></p>
     </td>
   </tr>
 </table>
