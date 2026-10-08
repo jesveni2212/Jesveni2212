@@ -93,10 +93,6 @@ Me interesa seguir creciendo en **QA Automation**, **Software Testing** y **Back
   </tr>
 </table>
 
-### 📚 Otros proyectos
-
-- [Tarea](https://github.com/jesveni2212/Tarea) — proyecto académico en HTML.
-- Más proyectos y experimentos en mi [perfil de GitHub](https://github.com/jesveni2212).
 
 ## 🎯 En qué estoy enfocado
 
