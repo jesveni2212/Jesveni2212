@@ -16,8 +16,6 @@
 
 Soy profesional de tecnología especializado en **Quality Assurance** y **Software Testing**, con experiencia en pruebas funcionales, automatización, APIs, backend, microservicios y aplicaciones web.
 
-Actualmente me desempeño como **QA Analyst en Bepsa**, participando en el diseño y ejecución de pruebas, la validación de integraciones, el análisis de incidencias y el aseguramiento de la calidad de sistemas transaccionales.
-
 Me interesa seguir creciendo en **QA Automation**, **Software Testing** y **Backend**, aportando una mirada técnica orientada a la calidad, la automatización y la mejora continua.
 
 ## 🧪 QA y automatización
